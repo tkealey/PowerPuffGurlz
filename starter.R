@@ -17,3 +17,4 @@ ShowcaseDataFall21$inventory_level <- as.factor(ShowcaseDataFall21$inventory_lev
 ggplot(ShowcaseDataFall21) +
   geom_bar(mapping = aes(x = nps))
 
+ jjjj
